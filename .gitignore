@@ -39,5 +39,8 @@ jupyter/**/__pycache__/
 /jzmq.dll
 /libzmq-mt-4_3_6.dll
 
+#.vscode
+.vscode/
+
 # OS-specific files
 .DS_Store
