@@ -21,6 +21,7 @@ packages/vitepress-playground/.generated/
 vscode/out/
 vscode/schemas/
 vscode/bin/
+**/noinclude/
 
 # Generated Jupyter package artifacts
 jupyter/dist/
@@ -37,3 +38,6 @@ jupyter/**/__pycache__/
 /META-INF/
 /jzmq.dll
 /libzmq-mt-4_3_6.dll
+
+# OS-specific files
+.DS_Store
